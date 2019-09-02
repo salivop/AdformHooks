@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CampaignsTableContainer should render correctly 1`] = `
+<PaperWrapper
+  child={
+    <React.Fragment>
+      <Loader />
+    </React.Fragment>
+  }
+/>
+`;
